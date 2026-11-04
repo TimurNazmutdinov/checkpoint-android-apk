@@ -1,0 +1,10 @@
+{
+  "version": "0.7.1",
+  "versionCode": 8,
+  "url": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/tag/v0.7.1",
+  "notes": {
+    "ru": ["Исправлены окна ввода: клавиатура и системные кнопки больше не перекрывают поля и кнопки"],
+    "kk": ["Енгізу терезелері түзетілді: пернетақта мен жүйелік батырмалар енді өрістер мен батырмаларды жаппайды"],
+    "en": ["Fixed input sheets: the keyboard and system buttons no longer cover fields and buttons"]
+  }
+}
