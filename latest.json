@@ -1,27 +1,27 @@
 {
-  "version": "0.7.2",
-  "versionCode": 9,
-  "url": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/tag/v0.7.2",
-  "apkUrl": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/download/v0.7.2/Checkpoint-0.7.2.apk",
-  "size": 56649541,
+  "version": "0.7.3",
+  "versionCode": 10,
+  "url": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/tag/v0.7.3",
+  "apkUrl": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/download/v0.7.3/Checkpoint-0.7.3.apk",
+  "size": 56884013,
   "notes": {
     "ru": [
-      "Обновление теперь скачивается и ставится прямо из приложения",
-      "Напоминания в день срока и о просрочке (Настройки → Напоминания)",
-      "Исправлено перекрытие клавиатурой полей и кнопок",
-      "Новая иконка без звёздочки"
+      "Новый логотип и иконка",
+      "Экран «Напоминания»: состояние и кнопки настроек, чтобы уведомления приходили вовремя",
+      "Переключатели стали заметнее в обеих темах",
+      "Мягкие тексты напоминаний о просрочке"
     ],
     "kk": [
-      "Жаңарту енді қолданбаның ішінде жүктеліп, орнатылады",
-      "Мерзім күні және мерзім өткенде еске салу (Баптаулар → Еске салулар)",
-      "Пернетақта өрістер мен батырмаларды жаппайтындай түзетілді",
-      "Жұлдызшасыз жаңа белгіше"
+      "Жаңа логотип және белгіше",
+      "«Еске салулар» экраны: күй және баптау батырмалары, хабарландырулар уақытында келуі үшін",
+      "Ауыстырғыштар екі тақырыпта да анығырақ",
+      "Мерзімі өткен туралы жұмсақ мәтіндер"
     ],
     "en": [
-      "Updates now download and install right from the app",
-      "Reminders on the due day and for overdue items (Settings → Reminders)",
-      "Fixed the keyboard covering fields and buttons",
-      "New icon without the star"
+      "New logo and icon",
+      "Reminders screen: status and settings buttons so notifications arrive on time",
+      "Switches are easier to see in both themes",
+      "Softer overdue reminder texts"
     ]
   }
 }
