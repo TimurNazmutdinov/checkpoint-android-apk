@@ -1,27 +1,21 @@
 {
-  "version": "0.7.3",
-  "versionCode": 10,
-  "url": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/tag/v0.7.3",
-  "apkUrl": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/download/v0.7.3/Checkpoint-0.7.3.apk",
-  "size": 56884013,
+  "version": "0.7.4",
+  "versionCode": 11,
+  "url": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/tag/v0.7.4",
+  "apkUrl": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/download/v0.7.4/Checkpoint-0.7.4.apk",
+  "size": 58737553,
   "notes": {
     "ru": [
-      "Новый логотип и иконка",
-      "Экран «Напоминания»: состояние и кнопки настроек, чтобы уведомления приходили вовремя",
-      "Переключатели стали заметнее в обеих темах",
-      "Мягкие тексты напоминаний о просрочке"
+      "Живая заставка: знак собирается анимацией",
+      "Нативная заставка без мигания"
     ],
     "kk": [
-      "Жаңа логотип және белгіше",
-      "«Еске салулар» экраны: күй және баптау батырмалары, хабарландырулар уақытында келуі үшін",
-      "Ауыстырғыштар екі тақырыпта да анығырақ",
-      "Мерзімі өткен туралы жұмсақ мәтіндер"
+      "Тірі қарсы алу экраны: белгі анимациямен жиналады",
+      "Жыпылықтамайтын бастапқы экран"
     ],
     "en": [
-      "New logo and icon",
-      "Reminders screen: status and settings buttons so notifications arrive on time",
-      "Switches are easier to see in both themes",
-      "Softer overdue reminder texts"
+      "Live splash screen: the logo assembles with an animation",
+      "No flicker on app start"
     ]
   }
 }
