@@ -1,21 +1,27 @@
 {
-  "version": "0.7.4",
-  "versionCode": 11,
-  "url": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/tag/v0.7.4",
-  "apkUrl": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/download/v0.7.4/Checkpoint-0.7.4.apk",
-  "size": 58737553,
+  "version": "0.7.5",
+  "versionCode": 12,
+  "url": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/tag/v0.7.5",
+  "apkUrl": "https://github.com/TimurNazmutdinov/checkpoint-android-apk/releases/download/v0.7.5/Checkpoint-0.7.5.apk",
+  "size": 58933360,
   "notes": {
     "ru": [
-      "Живая заставка: знак собирается анимацией",
-      "Нативная заставка без мигания"
+      "14 цветовых схем: светлые и тёмные",
+      "12 цветов целей и свой цвет у задачи",
+      "Логотип, заставка и иконка — в цвет схемы (по желанию)",
+      "Напоминания всплывают поверх экрана"
     ],
     "kk": [
-      "Тірі қарсы алу экраны: белгі анимациямен жиналады",
-      "Жыпылықтамайтын бастапқы экран"
+      "14 түс схемасы: жарық және қараңғы",
+      "12 мақсат түсі және тапсырманың өз түсі",
+      "Логотип, қарсы алу экраны және белгіше — схема түсінде (қалауыңызша)",
+      "Еске салулар экран үстінде көрінеді"
     ],
     "en": [
-      "Live splash screen: the logo assembles with an animation",
-      "No flicker on app start"
+      "14 color schemes: light and dark",
+      "12 goal colors and a color for each task",
+      "Logo, splash and icon in the scheme colors (optional)",
+      "Reminders pop up over the screen"
     ]
   }
 }
